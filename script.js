@@ -8,6 +8,7 @@ rightButton.addEventListener('click', function () {
         clickCount++;
         const scaleFactor = 1 + clickCount * 0.1;
         panda.style.transform = `scale(${scaleFactor})`;
+        leftButton.style.transform = `scale(${scaleFactor})`;
     }
 });
 
