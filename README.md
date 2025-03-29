@@ -1,2 +1,2 @@
 # yierbubusaysorry
-Bubu want to say sorry to Yier
+Bubu want to say sorry to you
